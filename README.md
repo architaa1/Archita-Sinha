@@ -49,22 +49,6 @@
 
 ---
 
-## 🚀 Projects
-
-- **[Full Stack Doctor Appointment System](https://github.com/architaa1/architaa1-Doctors_Appointment_Website)**  
-  React.js, Node.js, Express.js, MongoDB — Booking appointments with secure authentication.
-
-- **[Electricity Demand Prediction](https://github.com/architaa1/AI-Model-Predicting-Electricity-Demand-in-Delhi)**  
-  Machine learning model to forecast electricity demand based on weather and socioeconomic factors.
-
-- **[Telecom Churn Analysis and Prediction](https://github.com/architaa1/Pbi_SQL_ML_INTEGRATED_PROJECT_TelecomChurnAnalysis)**  
-  SQL + Machine Learning + Power BI dashboard for customer churn prediction.
-
-- **[Personal Portfolio Website](https://github.com/architaa1/Archita_Portfolio_Website)**  
-  React.js-based portfolio showcasing projects and skills.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
